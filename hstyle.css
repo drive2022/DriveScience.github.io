@@ -157,10 +157,10 @@ vertical-align: top;
 /* Corps */
 
 .photo_illust{
-    text-align: right;
+    text-align: center;
 }
 .photo_illust img{
-    width: 550px;
+    width: 850px;
 
 }
  

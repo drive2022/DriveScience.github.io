@@ -244,12 +244,15 @@ section > div{
     display: flex;
     flex-flow: row wrap;
     align-items: center;
+	background-color: #fefee2;
 }
 .prez-flex p:first-child{
     flex: 0 0 40%;
+	background-color: #fefee2;
 }
 .prez-flex p:last-child{
     flex: 0 0 60%;
+	background-color: #fefee2;
 }
 .social{
     display: flex;

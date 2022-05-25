@@ -218,7 +218,7 @@ section > div{
     padding: 10px;
     margin: 10px auto 30px auto;
     *color: #fff;
-    background-color: #EA0;
+    background-color: #fefee2;
     box-shadow: 0px 0px 10px #ccc;
     border-radius: 5px;
 }
@@ -236,6 +236,7 @@ section > div{
 .contact p{
     font-size: 1.3em;
 	text-align=justify-content;
+	background-color: #fefee2;
    margin: 5px auto 0px auto;
 	
 }
